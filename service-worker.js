@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rif-id-poc-stage/precache-manifest.1675d7dd509e1e64efa407c3129eab55.js"
+  "/rif-id-poc-stage/precache-manifest.debfd8024c443d87f158842a3d897dfa.js"
 );
 
 self.addEventListener('message', (event) => {
