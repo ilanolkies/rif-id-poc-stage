@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rif-id-poc-stage/static/css/main.534ca111.chunk.css",
+    "main.js": "/rif-id-poc-stage/static/js/main.e9e7cd1b.chunk.js",
+    "main.js.map": "/rif-id-poc-stage/static/js/main.e9e7cd1b.chunk.js.map",
+    "runtime-main.js": "/rif-id-poc-stage/static/js/runtime-main.b68f37ae.js",
+    "runtime-main.js.map": "/rif-id-poc-stage/static/js/runtime-main.b68f37ae.js.map",
+    "static/js/2.17c4b839.chunk.js": "/rif-id-poc-stage/static/js/2.17c4b839.chunk.js",
+    "static/js/2.17c4b839.chunk.js.map": "/rif-id-poc-stage/static/js/2.17c4b839.chunk.js.map",
+    "index.html": "/rif-id-poc-stage/index.html",
+    "precache-manifest.1675d7dd509e1e64efa407c3129eab55.js": "/rif-id-poc-stage/precache-manifest.1675d7dd509e1e64efa407c3129eab55.js",
+    "service-worker.js": "/rif-id-poc-stage/service-worker.js",
+    "static/css/main.534ca111.chunk.css.map": "/rif-id-poc-stage/static/css/main.534ca111.chunk.css.map",
+    "static/js/2.17c4b839.chunk.js.LICENSE.txt": "/rif-id-poc-stage/static/js/2.17c4b839.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rif-id-poc-stage/static/media/logo.5e7b55e5.svg",
+    "static/media/power_by_iovlabs.svg": "/rif-id-poc-stage/static/media/power_by_iovlabs.0403ff12.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b68f37ae.js",
+    "static/js/2.17c4b839.chunk.js",
+    "static/css/main.534ca111.chunk.css",
+    "static/js/main.e9e7cd1b.chunk.js"
+  ]
+}
