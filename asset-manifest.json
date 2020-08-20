@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rif-id-poc-stage/static/css/main.534ca111.chunk.css",
-    "main.js": "/rif-id-poc-stage/static/js/main.3046818d.chunk.js",
-    "main.js.map": "/rif-id-poc-stage/static/js/main.3046818d.chunk.js.map",
+    "main.js": "/rif-id-poc-stage/static/js/main.12344fd0.chunk.js",
+    "main.js.map": "/rif-id-poc-stage/static/js/main.12344fd0.chunk.js.map",
     "runtime-main.js": "/rif-id-poc-stage/static/js/runtime-main.b68f37ae.js",
     "runtime-main.js.map": "/rif-id-poc-stage/static/js/runtime-main.b68f37ae.js.map",
     "static/js/2.17c4b839.chunk.js": "/rif-id-poc-stage/static/js/2.17c4b839.chunk.js",
     "static/js/2.17c4b839.chunk.js.map": "/rif-id-poc-stage/static/js/2.17c4b839.chunk.js.map",
     "index.html": "/rif-id-poc-stage/index.html",
-    "precache-manifest.debfd8024c443d87f158842a3d897dfa.js": "/rif-id-poc-stage/precache-manifest.debfd8024c443d87f158842a3d897dfa.js",
+    "precache-manifest.4d538d049cde3e322603fb880b76a702.js": "/rif-id-poc-stage/precache-manifest.4d538d049cde3e322603fb880b76a702.js",
     "service-worker.js": "/rif-id-poc-stage/service-worker.js",
     "static/css/main.534ca111.chunk.css.map": "/rif-id-poc-stage/static/css/main.534ca111.chunk.css.map",
     "static/js/2.17c4b839.chunk.js.LICENSE.txt": "/rif-id-poc-stage/static/js/2.17c4b839.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b68f37ae.js",
     "static/js/2.17c4b839.chunk.js",
     "static/css/main.534ca111.chunk.css",
-    "static/js/main.3046818d.chunk.js"
+    "static/js/main.12344fd0.chunk.js"
   ]
 }
